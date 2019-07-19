@@ -1,0 +1,16 @@
+#main {
+    font-size: 50px;
+    color:lightblue;
+    border: 10px solid lightpink;
+    text-align: center;
+
+  }
+#footer {
+    color: lightblue;
+    font-size: 30px;
+    text-align: center
+    /* background-color: lightblue; */
+}
+/* .text {
+border: 2px solid lightpink;
+} */
